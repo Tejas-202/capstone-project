@@ -1,24 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import { Route } from 'react-router-dom'
+
+//HOC
+import HomeHOC from './HOC/HomeHOC';
+
+//Components
+import HomePage from './pages/HomePage';
+import DetailPage from './pages/DetailPage';
+import BagPage from './pages/BagPage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <HomeHOC path="/" exact component={HomePage} />
+      <HomeHOC path="/detailview:id" exact component={DetailPage} />
+      <HomeHOC path="/bagview" exact component={BagPage} />
+    </>
   );
 }
 

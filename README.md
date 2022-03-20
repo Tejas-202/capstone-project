@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# ScreenShort
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-54-07.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-54-09.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-54-12.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-54-21.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-54-25.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-54-51.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-54-56.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-55-35.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-55-41.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-55-45.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-56-01.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-57-24.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-57-33.png" />
+<img src="public/images/ScreenShorts/Screenshot from 2022-03-20 21-57-44.png" />
+<img src="/home/tejas/Desktop/capstone-project/public/images/ScreenShorts/Screenshot from 2022-03-20 21-57-53.png" />

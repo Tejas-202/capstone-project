@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+@media (min-width: 768px) {
+  .card-wrap {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .card-wrap {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: .5rem;
+  }
+}
+
+
+@media (max-width: 765px) {
+  .card-wrap {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.details-rating {
+  border: 1px solid rgb(99, 99, 99);
+}
+
+.details-rating:hover {
+  border: 1px solid black;
+}
